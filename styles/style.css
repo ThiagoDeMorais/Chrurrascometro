@@ -1,0 +1,66 @@
+body{
+  background-image: url('../Images/churrasco.jpg');
+}
+
+.container{
+  text-align: center;
+  max-width: 500px; 
+  margin: auto;
+  background-color: rgba(87, 43, 43, 0.829);
+  padding: 20px;
+  border-radius: 10px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.buttoncontainer{
+  text-align: center;
+}
+
+.icon1{
+  width: 25px;
+}
+
+#carne{
+  display: inline-block;
+}
+
+.icon2{
+  width: 25px;
+}
+
+#cerveja{
+  display: inline-block;
+}
+
+.icon3{
+  width: 25px;
+}
+
+#refrigerante{
+  display: inline-block;
+}
+
+
+h1{
+  margin-top: 0;
+}
+
+input{
+  padding:5px;
+  width: 100%;
+  margin: auto;
+  display:block;
+  box-sizing: border-box ;
+  margin-bottom: 5px;
+}
+
+.rodape{
+  text-align: center;
+  background-color: rgba(44, 7, 7, 0.829);
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
+
+
